@@ -1,0 +1,12 @@
+ul {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.active {
+  color: red;
+}

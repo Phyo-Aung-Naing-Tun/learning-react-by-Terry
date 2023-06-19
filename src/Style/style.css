@@ -1,0 +1,12 @@
+.container {
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+  font-size: larger;
+  font-weight: bold;
+  gap: 30px;
+}
